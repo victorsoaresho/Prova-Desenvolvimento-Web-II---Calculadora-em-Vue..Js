@@ -1,2 +1,18 @@
-# Prova Desenvolvimento Web II | Calculadora em Vue..Js
- Repositório criado para hospedar o código da prova de Desenvolvimento Web II
+# Calculadora em Vue.Js
+ Projeto de uma calculadora criada para a disciplina de Desenvolvimento Web II do curso de Desenvolvimento de Software Multiplataforma da Fatec Franca
+
+ # Descrição
+ Calculadora capaz de realizar as operações básicas de matemática: adição, subtração, multiplicação e divisão, lidando com as entradas do usuário. Possui uma interface amigável para que   o usuário possa interagir com a calculadora. Possui botões para os números (0-9), para as operações básicas (+, -, *, /) e um botão de igual (=) para calcular o resultado. <BR>
+ Link da calculadora: <a href="https://victorsoaresho.itch.io/bancodedados" target="_blank">https://victorsoaresho.itch.io/bancodedados<a>
+
+## 🎁 Expressões de gratidão
+
+* Conte a outras pessoas sobre este projeto 📢;
+* Convide alguém da equipe para uma cerveja 🍺;
+
+
+---
+⌨️ com ❤️ por [Victor](https://github.com/victorsoaresho) 😊
+
+
+ 
