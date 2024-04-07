@@ -1,4 +1,4 @@
-# Calculadora em Vue.Js
+# Calculadora em Vue.js
  Projeto de uma calculadora criada para a disciplina de Desenvolvimento Web II do curso de Desenvolvimento de Software Multiplataforma da Fatec Franca
 
  # Descrição
